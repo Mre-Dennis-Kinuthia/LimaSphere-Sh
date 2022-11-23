@@ -1,1 +1,1 @@
-"# LimaSphere Shell Project" 
+# LimaSphere Shell Project
